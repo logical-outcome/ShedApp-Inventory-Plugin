@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: MSC Search Lots Plugin
+ * Plugin Name: TSA Search Lots Plugin
  * Description: This was made exclusively for Montana Shed Center. The plugin will list the lot by a given zip code.
  * Requires at least: 5.8
  * Requires PHP:      7.0
